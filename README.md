@@ -17,7 +17,7 @@ Through this project, I learned:
 
 ## Tools and Platforms Used
 
-- Canva / Google Slides
+- Canva
 - GitHub
 - LinkedIn
 - Kaggle
