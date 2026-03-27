@@ -1,9 +1,9 @@
 # Digital-Literacy-Project
 
-#**Name:** Shashi Sheoran 
-#**Program:** B.Tech
-#**Course:** CSE0001 – Digital Literacy 
-#**University:** VIT Bhopal University
+**Name:** Shashi Sheoran                                                              
+**Course:** CSE0001 – Digital Literacy
+**Program:** B.Tech 
+**University:** VIT Bhopal University
 
 ## Key Learning Outcomes
 
